@@ -37,7 +37,7 @@ public class EventListener implements Listener{
 		Player p = evt.getPlayer();
 		if (p.hasMetadata("select")){
 			String s = p.getMetadata("select").get(0).toString();
-			
+			System.out.println(s);
 		}
 	}
 }
