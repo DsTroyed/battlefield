@@ -2,59 +2,60 @@
 hiearchie of files:<br>
 ----------------------<br>
 
-config.yml <return>
-loadouts.yml <return>
-items.yml<return>
+config.yml<br>
+loadouts.yml<br>
+items.yml<br>
 
-weapons/explosives/<return>
-weapons/guns/<return>
-weapons/grenades/<return>
-weapons/ammo<return>
-weapons/items<return>
-weapons/attachments<return>
+weapons/explosives<br>
+weapons/guns<br>
+weapons/grenades<br>
+weapons/ammo<br>
+weapons/items<br>
+weapons/attachments<br>
 
 gametypes/domination.jar
 
-arenas/test/localization.loc<return>
-arenas/test/loadouts.yml<return>
-arenas/test/config.yml (default)<return>
-arenas/test/rules.yml (per gametype)<return>
+arenas/test/localization.loc<br>
+arenas/test/loadouts.yml<br>
+arenas/test/config.yml (default)<br>
+arenas/test/rules.yml (per gametype)<br>
 
-----------------------<return>
-hierachie of classes:<return>
-----------------------<return>
+----------------------<br>
+hierachie of classes:<br>
+----------------------<br>
 
-battlefield <return>
-commands <return>
-clock <return>
-listener<return>
+battlefield<br>
+commands<br>
+clock<br>
+listener<br>
 
-utils/LocalizationFile <return>
-utils/Convertors utils/Config<return>
+utils/LocalizationFile<br>
+utils/Convertors<br>
+utils/Config<br>
 
-moduleloader/moduleloader <return>
-moduleloader/modulereader<return>
+moduleloader/moduleloader<br>
+moduleloader/modulereader<br>
 
-API/events/PlayerDieEvent <return>
-API/events/PlayerJoinEvent <return>
-API/events/PlayerSpawnEvent <return>
-API/events/PlayerLeaveEvent <return>
-API/events/GameEndEvent <return>
-API/events/GameStartEvent <return>
-API/PlayingPlayer <return>
-API/Game <return>
-API/Flag <return>
-API/Spawn <return>
-API/Squad <return>
-API/Team<return>
+API/events/PlayerDieEvent<br>
+API/events/PlayerJoinEvent<br>
+API/events/PlayerSpawnEvent<br>
+API/events/PlayerLeaveEvent<br>
+API/events/GameEndEvent<br>
+API/events/GameStartEvent<br>
+API/PlayingPlayer<br>
+API/Game<br>
+API/Flag<br>
+API/Spawn<br>
+API/Squad<br>
+API/Team<br>
 
-gamemechanics/Gun <return>
-gamemechanics/Explosive <return>
-gamemechanics/Attachment <return>
-gamemechanics/Ammo <return>
-gamemechanics/ScoreBoard <return>
-gamemechanics/EventLauncher<return>
-gamemechanics/vehicles/jeep<return>
-gamemechanics/vehicles/plane<return>
-gamemechanics/vehicles/rank<return>
-gamemechanics/vehicles/boat<return>
+gamemechanics/Gun<br>
+gamemechanics/Explosive<br>
+gamemechanics/Attachment<br>
+gamemechanics/Ammo<br>
+gamemechanics/ScoreBoard<br>
+gamemechanics/EventLauncher<br>
+gamemechanics/vehicles/jeep<br>
+gamemechanics/vehicles/plane<br>
+gamemechanics/vehicles/rank<br>
+gamemechanics/vehicles/boat<br>
